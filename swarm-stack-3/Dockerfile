@@ -1,6 +1,3 @@
-
-
-
 FROM drupal:9.3.13
 
 
